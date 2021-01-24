@@ -53,7 +53,7 @@ const formValidator = () => {
     //     });
     // };
     validatePhoneInput(formPhone);
-    validateStringInput(formName);
+    //validateStringInput(formName);
     // expandedFormName.addEventListener('input', () => {
     //     // if (!expandedFormName.value[expandedFormName.value.length - 1].match(/^[а-яА-Я ]/)) {
     //     //     expandedFormName.value = expandedFormName.value.substr(0, expandedFormName.value.length - 1);
