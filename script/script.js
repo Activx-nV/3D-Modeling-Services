@@ -164,7 +164,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 } else {
                     formBtns.forEach(item => {
                         item.removeAttribute('disabled', true);
-                        item.textContent = 'Оставить заявку!';
+                        item.textContent = 'Place an order!';
                     });
 
                     target = target.closest('.popup-content');
