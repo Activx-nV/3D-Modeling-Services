@@ -132,7 +132,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 let target = event.target;
                 formBtns.forEach(item => {
                     item.removeAttribute('disabled', true);
-                    item.textContent = 'Оставить заявку!';
+                    item.textContent = 'Place an order!';
                 });
 
 
